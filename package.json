@@ -9,6 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@styled-icons/material": "^10.47.0",
+    "@udecode/plate": "^20.6.3",
+    "@udecode/plate-dnd": "^20.6.4",
+    "@udecode/plate-juice": "^20.4.0",
+    "@udecode/plate-selection": "^20.4.0",
+    "@udecode/plate-ui-dnd": "^20.6.4",
+    "@udecode/plate-ui-excalidraw": "^20.4.0",
     "eslint": "8.38.0",
     "eslint-config-next": "13.3.0",
     "next": "13.3.0",
